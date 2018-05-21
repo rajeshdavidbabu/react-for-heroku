@@ -1,5 +1,5 @@
 # react-for-heroku
-A simple deployment ready react application for heroku
+A simple deployment ready webpack-react application for heroku
 
 ## Instructions
 
