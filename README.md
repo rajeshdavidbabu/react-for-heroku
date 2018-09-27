@@ -1,5 +1,5 @@
 # react-for-heroku
-A simple deployment ready webpack-react application for heroku
+A simple deployment ready webpack-react application for heroku.
 Please follow the link for detailed explanation: https://codeburst.io/deploy-your-webpack-apps-to-heroku-in-3-simple-steps-4ae072af93a8
 
 ## Instructions
